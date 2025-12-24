@@ -1,0 +1,8 @@
+{
+  "name": "TravX",
+  "description": "TravX - Navigate the Incredible. Integrated travel super-app with AI planning, safety, and bookings.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
